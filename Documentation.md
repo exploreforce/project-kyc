@@ -354,7 +354,7 @@ Die Struktur ist vorbereitet für:
 - Single-Tenant only
 - Lokale SQLite Datenbank
 
-**Für Production erforderlich**:
+**Für Production ratsam**:
 - OAuth2/JWT Authentication
 - Verschlüsselte Datenbank
 - Multi-Tenant Isolation
